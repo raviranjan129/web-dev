@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+   box-sizing: border-box;
+}
+.button{
+    display: inline-block;
+   border:2px solid black;
+    
+}
+
+
+#red{
+    height:100px;
+    width: 100px;
+    background-color: red;
+}
+
+#grey{
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+}
+
+#yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+#purple{
+    height: 100px;
+    width:100px;
+    background-color: purple;
+}
